@@ -1,0 +1,47 @@
+<%
+    switch (status) {
+    case "question":
+%>
+    <section class="card question">
+        <h2><%= questions.at(questionsIndex).get("question") %></h2>
+    </section>
+<%
+        break;
+    case "closed":
+%>
+    <section class="card closed">
+        <section class="button-add-second-card"></section>
+    </section>
+<%
+        break;
+    case "closed_two":
+%>
+    <section class="card closed">
+    </section>
+<%
+        break;
+    case "open":
+%>
+    <section class="card open">
+        <h2><%= hand[selected].get("answer") %></h2>
+        <% if (secondSelected !== null) { %>
+            <hr>
+            <h2><%= hand[secondSelected].get("answer") %></h2>
+        <% } %>
+    </section>
+<%
+        break;
+    default:
+%>
+    <section class="card black">
+        <h2>Stel je vraag!</h2>
+    </section>
+    <% hand.forEach(function (card, index) { %>
+        <section class="card overview" data-index="<%= index %>">
+            <h2><%= card.get("answer") %></h2>
+        </section>
+    <% }); %>
+<% } %>
+<section style="font-size: 0.7em; margin: 10px">
+        <p>Kijk voor meer informatie op <a href="https://www.codefor.nl/">www.codefor.nl</a>.</p>
+</section>

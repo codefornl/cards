@@ -1,0 +1,75 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    font-size: 100%;
+    font-family: Helvetica;
+    font-weight: normal;
+    background: #ddd;
+}
+h1 {
+    
+}
+h2 {
+    font-size: 2em;
+    font-weight: 900;
+    margin: 1em;
+}
+section.cards {
+    width: 100%;
+    height: 100%;
+}
+section.card {
+    display: block;
+    width: 90%;
+    border: 1px solid black;
+    margin: 8px auto;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #fff;
+    position: relative;
+}
+section.closed,
+section.open {
+    height: 96%;
+}
+section.closed {
+    background: url(/assets/img/card_back.png);
+    background-size: 10%;
+}
+section.closed h2 {
+    display: none;
+}
+section.black {
+    color: #fff;
+    background: #000;
+}
+section.question {
+    height: 96%;
+    color: #fff;
+    background: #000;
+}
+.button-add-second-card {
+    font-size: 4em;
+    width: 1.5em;
+    height: 1.5em;
+    background: #fff;
+    position: absolute;
+    bottom: 0.2em;
+    right: 0.2em;
+/*    border-radius: 1em;*/
+    background: url(/assets/img/secondCard.png) center center no-repeat;
+    background-size: contain;
+}
+hr {
+    border: 1px solid black;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    height: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px -4px 10px -4px rgba(50, 50, 50, 0.3);
+    -moz-box-shadow:    0px -4px 10px -4px rgba(50, 50, 50, 0.3);
+    box-shadow:         0px -4px 10px -4px rgba(50, 50, 50, 0.3);
+}
