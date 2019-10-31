@@ -1,7 +1,6 @@
 define([
-    'settings',
     'text!templates/cards.tmpl'
-], function (settings, template) {
+], function (template) {
     return Backbone.View.extend({
         template: _.template(template),
         tagName: "section",
