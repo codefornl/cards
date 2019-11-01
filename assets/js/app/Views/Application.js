@@ -19,6 +19,7 @@ define([
                 })
                 .map(function (card) {
                     card.question = card.text;
+                    card.category = card.category;
                     return card;
                 })
             );
@@ -30,6 +31,7 @@ define([
                 })
                 .map(function (card) {
                     card.answer = card.text;
+                    card.category = card.category;
                     return card;
                 })
             );
