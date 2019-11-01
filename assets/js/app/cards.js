@@ -399,6 +399,54 @@ define(function() {
       "text": "De organisatie 'matched' EU financiering voor 'Next Generation Internet' projecten (zoals decentrale en privacy vriendelijke tech.)",
       "numAnswers": 0,
       "expansion": "Base"
+    },
+    {
+      "id": 140,
+      "cardType": "Q",
+      "category": "",
+      "text": "hoe stimuleer je de ontwikkeling van privacy-bewuste bedrijven en applicaties",
+      "numAnswers": 0,
+      "expansion": "Base"
+    },
+    {
+      "id": 141,
+      "cardType": "Q",
+      "category": "",
+      "text": "Hoe verstevigd de overheid haar positie ten opzichte van het bedrijfsleven op data vraagstukken",
+      "numAnswers": 0,
+      "expansion": "Base"
+    },
+    {
+      "id": 142,
+      "cardType": "Q",
+      "category": "",
+      "text": "Hoe komt data voor de samenleving optimaal beschikbaar",
+      "numAnswers": 0,
+      "expansion": "Base"
+    },
+    {
+      "id": 143,
+      "cardType": "Q",
+      "category": "",
+      "text": "Hoe leert de overheid beter samen te werken met programmeurs, data scientists en ict architecten.",
+      "numAnswers": 0,
+      "expansion": "Base"
+    },
+    {
+      "id": 144,
+      "cardType": "Q",
+      "category": "",
+      "text": "Welke rol moet de overheid pakken in de digitale samenleving",
+      "numAnswers": 0,
+      "expansion": "Base"
+    },
+    {
+      "id": 145,
+      "cardType": "Q",
+      "category": "",
+      "text": "Hoe kan de overheid ethisch handelen in technogische vraagstukken bevorderen",
+      "numAnswers": 0,
+      "expansion": "Base"
     }
   ];
 });
