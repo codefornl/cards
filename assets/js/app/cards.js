@@ -4,7 +4,7 @@ define(function() {
       "id": 1,
       "cardType": "A",
       "category": "Toezicht",
-      "text": "algoritmewaarkhond",
+      "text": "een algoritmewaarkhond",
       "description": "Data, technologie en algoritmen wordt met regelmaat gecontroleerd op mogelijke vooroordelen en uitsluiting.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -13,7 +13,7 @@ define(function() {
       "id": 2,
       "cardType": "A",
       "category": "Menselijke maat",
-      "text": "meldpunt digitale discriminatie",
+      "text": "een meldpunt digitale discriminatie",
       "description": "Burgers kunnen eenvoudig kenbaar maken dat ze denken buitengesloten of gediscrimineerd te worden door beslissingen van systemen.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -22,7 +22,7 @@ define(function() {
       "id": 3,
       "cardType": "A",
       "category": "Richtlijn",
-      "text": "computer die meedenkt",
+      "text": "een computer die meedenkt",
       "description": "'Computer says no' situaties mogen niet bestaan.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -31,7 +31,7 @@ define(function() {
       "id": 4,
       "cardType": "A",
       "category": "Feedback",
-      "text": "kwaliteitsmeting",
+      "text": "standaard kwaliteitsmeting",
       "description": "De betrouwbaarheid van besluitvorming door systemen wordt gemeten en gelabeld.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -40,7 +40,7 @@ define(function() {
       "id": 5,
       "cardType": "A",
       "category": "Toezicht",
-      "text": "",
+      "text": "een algoritmewaarhond",
       "description": "Een algoritme controle autoriteit bewaakt verantwoord gebruik van geautomatiseerde processen.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -49,7 +49,7 @@ define(function() {
       "id": 6,
       "cardType": "A",
       "category": "Stimuleren",
-      "text": "",
+      "text": "het ondersteunen van commons initiatieven",
       "description": "Commons initiatieven (collectief gedeeld of collaboratief ontwikkeld) rondom technologie worden ondersteund met kennis fondsen en infrastructuur.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -58,7 +58,7 @@ define(function() {
       "id": 7,
       "cardType": "A",
       "category": "Toezicht",
-      "text": "",
+      "text": "extra toezicht waar nodig",
       "description": "Plekken in de samenleving waar inclusiviteit een grote rol speelt (zoals toegang tot onderwijs en banen) zijn aan scherper toezicht onderhevig.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -67,7 +67,7 @@ define(function() {
       "id": 8,
       "cardType": "A",
       "category": "Richtlijn",
-      "text": "",
+      "text": "strenge beperkingen",
       "description": "Er zijn strenge beperkingen om bepaalde data te verzamelen, gebruiken en combineren, zoals DNA, persoonsgegevens, relatiegegevens etc.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -76,7 +76,7 @@ define(function() {
       "id": 9,
       "cardType": "A",
       "category": "Participatie",
-      "text": "",
+      "text": "burgers doen de voorstellen",
       "description": "Burgers hebben mogelijkheden om data te verzamelen te analyseren en tot voorstellen te komen.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -85,7 +85,7 @@ define(function() {
       "id": 10,
       "cardType": "A",
       "category": "Stimuleren",
-      "text": "",
+      "text": "een positief vestigingsklimaat",
       "description": "Er is een positief vestigingsklimaat voor MVO bedrijven en Social Enterprises met speciale aandacht voor de rol van tech.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -94,7 +94,7 @@ define(function() {
       "id": 11,
       "cardType": "A",
       "category": "Feedback",
-      "text": "",
+      "text": "waarschuwingsstickers",
       "description": "Technologie data en algoritmen worden voorzien van een disclaimer met daarin waarschuwingen over het gebruik de nauwkeurigheid etc.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -103,7 +103,7 @@ define(function() {
       "id": 12,
       "cardType": "A",
       "category": "Feedback",
-      "text": "",
+      "text": "een 'mijn'-pagina",
       "description": "Het is voor burgers inzichtelijk hoe hun feedback wordt verwerkt in de aanpassing van systemen en uitkomsten van besluiten.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -112,7 +112,7 @@ define(function() {
       "id": 13,
       "cardType": "A",
       "category": "Feedback",
-      "text": "",
+      "text": "communicerende algoritmes",
       "description": "Algoritmen communiceren 'zelf' over hun status, gebruik, besluitvorming via een Open platform.",
       "numAnswers": 0,
       "expansion": "Base"
@@ -121,7 +121,7 @@ define(function() {
       "id": 14,
       "cardType": "A",
       "category": "Open",
-      "text": "",
+      "text": "inzage in besluitvorming",
       "description": "Het is voor burgers inzichtelijk hoe voor- en nadelen zijn afgewogen in de totstandkoming en implementatie van technologie.",
       "numAnswers": 0,
       "expansion": "Base"
