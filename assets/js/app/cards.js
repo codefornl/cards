@@ -404,7 +404,7 @@ define(function() {
       "id": 140,
       "cardType": "Q",
       "category": "",
-      "text": "hoe stimuleer je de ontwikkeling van privacy-bewuste bedrijven en applicaties",
+      "text": "We krijgen meer privacy-bewuste bedrijven en applicaties met ...",
       "numAnswers": 0,
       "expansion": "Base"
     },
@@ -412,7 +412,7 @@ define(function() {
       "id": 141,
       "cardType": "Q",
       "category": "",
-      "text": "Hoe verstevigd de overheid haar positie ten opzichte van het bedrijfsleven op data vraagstukken",
+      "text": "Voor de positie van de overheid t.a.v. de markt is ... onmisbaar",
       "numAnswers": 0,
       "expansion": "Base"
     },
@@ -420,7 +420,7 @@ define(function() {
       "id": 142,
       "cardType": "Q",
       "category": "",
-      "text": "Hoe komt data voor de samenleving optimaal beschikbaar",
+      "text": "... stellen we morgen direct beschikbaar aan iedereen",
       "numAnswers": 0,
       "expansion": "Base"
     },
@@ -428,7 +428,7 @@ define(function() {
       "id": 143,
       "cardType": "Q",
       "category": "",
-      "text": "Hoe leert de overheid beter samen te werken met programmeurs, data scientists en ict architecten.",
+      "text": "Samenwerken met techneuten gaan we doen door ...",
       "numAnswers": 0,
       "expansion": "Base"
     },
@@ -436,7 +436,7 @@ define(function() {
       "id": 144,
       "cardType": "Q",
       "category": "",
-      "text": "Welke rol moet de overheid pakken in de digitale samenleving",
+      "text": "In de digitale samenleving is de overheid vooral ...",
       "numAnswers": 0,
       "expansion": "Base"
     },
@@ -444,7 +444,7 @@ define(function() {
       "id": 145,
       "cardType": "Q",
       "category": "",
-      "text": "Hoe kan de overheid ethisch handelen in technogische vraagstukken bevorderen",
+      "text": "Met ... zorgen we voor ethisch handelen in technogie",
       "numAnswers": 0,
       "expansion": "Base"
     }
