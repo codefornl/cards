@@ -8,13 +8,13 @@ body {
     font-weight: normal;
     background: #ddd;
 }
-h1 {
-    
-}
 h2 {
-    font-size: 2em;
-    font-weight: 900;
+    font-size: 1.4em;
+    font-weight: 500;
     margin: 1em;
+}
+p {
+    margin: 2em;
 }
 section.cards {
     width: 100%;
